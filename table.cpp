@@ -15,6 +15,9 @@
  * The first function supports detection of left recursion
  * on detection it gives the faulty production and then exits
  */
+ 
+ //this is just a copy of the original file
+ //to be tested for a new branch
 
 
 #include <iostream>
